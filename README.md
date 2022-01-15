@@ -9,7 +9,7 @@ There is no time limit but you cannot relax and collect the coins slowly because
 
 ![Poster](https://blogger.googleusercontent.com/img/a/AVvXsEjK9E27so_fxtK5mcUSwWxdU9oBrQ4eWMeaPljeGC1RqI34J1jZavxxPJ4lowyvnavMZbZTqqV6e5Not0nOjD7ttK7w99KIkQg3X5RH0YxWEZnEMoOS4Ekr5ktHwd7ceEXqkBrSFL3hJeZ0lNPSYIO_KxlRw84AMd67AwlgVzaKTxTPpwlkhe9PGlTj=s1831 "Poster")
 
-## Things Included in this Project:
+## Functionalities in this Project:
 
 - Player controls a Cyan color Ball and move it with W,A,S,D
 - Objective is to collect Yellow color Coins
